@@ -1,0 +1,102 @@
+.jumbo1 {
+  height: 400px;
+}
+.container2 {
+  background-image: url("./img/pic1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  background-position: center;
+  height: 400px;
+}
+p {
+  color: black;
+  font-weight: 300;
+  font-size: 30px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+.paragh {
+  margin-left: 8%;
+  margin-right: 8%;
+  justify-content: center;
+}
+.chadartrek {
+  color: black;
+  font-size: 80px;
+  font-weight: 400;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.highlights {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.highlightitle {
+  color: black;
+  font-size: 50px;
+  font-weight: 400;
+  margin-bottom: 50px;
+}
+li {
+  margin-top: 20px;
+  font-size: 30px;
+}
+.p1 {
+}
+.chadaroverview {
+  color: black;
+  font-size: 50px;
+  font-weight: 400;
+  margin-bottom: 50px;
+}
+#myNumber {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 70%;
+  width: 150px;
+  height: 20px;
+}
+input {
+  cursor: default;
+  /*when hover it default pointer*/
+  color: transparent;
+  /*make blinking cursor disappear*/
+  /*but it will make to text disappear*/
+  text-shadow: 0px 0px black;
+}
+.overview {
+  background-color: rgb(255, 249, 240);
+  padding-right: 30px;
+  padding-left: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 20px;
+}
+.price {
+  color: black;
+}
+.highlights {
+  background-color: rgb(255, 249, 240);
+  padding-right: 30px;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 20px;
+}
+.booking {
+  margin-top: 20px;
+  margin-bottom: 100px;
+  background-color: rgb(255, 249, 240);
+  padding-right: 30px;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 20px;
+}
+ul {
+  padding-left: 40px;
+}
+.enter {
+  margin-top: 20px;
+}
